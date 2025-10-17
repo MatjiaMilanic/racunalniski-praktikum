@@ -5,11 +5,11 @@
 
 <!-- 2. nivojski razdelek -->
 ## Bližnjice na tipkovnici
-tab shift (se lahko premikas nazaj s stipkovnico), 
-shift insert (v gitbash ker ctrl+v ne dela),
- multi cursor (držiš alt in z miško obklikaš vrstice v katerih hočeš pisat)
- ctrl+f najdeš kar hočeš
- 
+* *tab shift (se lahko premikas nazaj s stipkovnico), 
+* *shift insert (v gitbash ker ctrl+v ne dela),
+ * *multi cursor (držiš alt in z miško obklikaš vrstice v katerih hočeš pisat)
+ * *ctrl+f najdeš kar hočeš
+
 * *Kopiraj* označeno v odložišče: Ctrl+C (**C**opy)
 * *Izreži* označeno v odložišče: Ctrl+X
 * *Prilepi* vsebino odložišča: Ctrl+V
