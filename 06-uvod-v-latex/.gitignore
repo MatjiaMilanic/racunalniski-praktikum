@@ -1,0 +1,41 @@
+# LaTeX temporary files
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.brf
+*.fdb_latexmk
+*.fls
+*.idx
+*.ilg
+*.ind
+*.ist
+*.lof
+*.log
+*.lol
+*.lot
+*.nav
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.snm
+*.vrb
+
+# Latexmk specific
+*.latexmk
+
+# Output files
+*.pdf
+
+# Editor / OS files
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Direktotirji, ki jih ignoriramo
+_build/
+latex.out/
+test
+latex-test.tex
