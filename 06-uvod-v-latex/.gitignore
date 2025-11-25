@@ -37,3 +37,5 @@ Thumbs.db
 # Direktotirji, ki jih ignoriramo
 _build/
 latex.out/
+latex-test.tex
+test
