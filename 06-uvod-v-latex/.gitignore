@@ -1,6 +1,4 @@
-# -------------------------
 # LaTeX temporary files
-# -------------------------
 *.aux
 *.bbl
 *.bcf
@@ -18,7 +16,6 @@
 *.lot
 *.nav
 *.out
-*.pdfsync
 *.run.xml
 *.synctex.gz
 *.toc
@@ -28,21 +25,15 @@
 # Latexmk specific
 *.latexmk
 
-# -------------------------
-# Build/Output files
-# -------------------------
+# Output files
 *.pdf
 
-# -------------------------
 # Editor / OS files
-# -------------------------
 *.swp
 *~
 .DS_Store
 Thumbs.db
 
-# -------------------------
-# Directories to ignore
-# -------------------------
+# Direktotirji, ki jih ignoriramo
 _build/
 latex.out/
