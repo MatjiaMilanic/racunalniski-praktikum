@@ -15,9 +15,6 @@
 *.ilg
 *.run.xml
 
-## PDF (ne ignoriraj če želiš slediti končnemu PDF) ##
-# *.pdf
-
 ## Druge začasne datoteke ##
 *~
 .*.swp
