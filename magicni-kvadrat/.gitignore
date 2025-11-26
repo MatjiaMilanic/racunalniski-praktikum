@@ -1,23 +1,10 @@
-## LaTeX začasne datoteke ##
-*.aux
-*.log
-*.out
-*.toc
-*.lof
-*.lot
-*.bbl
-*.blg
-*.synctex.gz
-*.fdb_latexmk
-*.fls
-*.ind
-*.idx
-*.ilg
-*.run.xml
-
-# *.pdf
-
-## Druge začasne datoteke ##
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+*.egg-info/
 *~
 .*.swp
 .DS_Store
