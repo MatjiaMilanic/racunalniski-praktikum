@@ -1,0 +1,23 @@
+## LaTeX začasne datoteke ##
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.ind
+*.idx
+*.ilg
+*.run.xml
+
+# *.pdf
+
+## Druge začasne datoteke ##
+*~
+.*.swp
+.DS_Store
