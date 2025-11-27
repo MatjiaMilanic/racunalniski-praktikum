@@ -82,3 +82,25 @@ _build/
 latex.out/
 test
 latex-test.tex
+# LaTeX pomožne datoteke
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.toc
+*.out
+*.synctex.gz
+*.lof
+*.lot
+*.tdo
+
+# Za specifične datoteke v podimenikih
+magicni-kvadrat/*.aux
+magicni-kvadrat/*.bbl
+magicni-kvadrat/*.blg
+magicni-kvadrat/*.fdb_latexmk
+magicni-kvadrat/*.fls
+magicni-kvadrat/*.log
+magicni-kvadrat/*.toc
