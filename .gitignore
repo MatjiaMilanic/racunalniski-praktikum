@@ -104,3 +104,16 @@ magicni-kvadrat/*.fdb_latexmk
 magicni-kvadrat/*.fls
 magicni-kvadrat/*.log
 magicni-kvadrat/*.toc
+# V magicni-kvadrat ohrani samo magic.tex
+magicni-kvadrat/*
+!magicni-kvadrat/magic.tex
+
+# Splošne LaTeX datoteke
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.toc
+*.out
